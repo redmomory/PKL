@@ -1,0 +1,10 @@
+.side-btn {
+  font-size: 1.2rem;
+  font-weight: bold;
+  width: 100%;
+  margin-bottom: 0.5rem;
+}
+.side-btn:hover{
+  color: blue;
+  text-decoration: underline;
+}
